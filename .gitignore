@@ -216,3 +216,10 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Dataset
+dataset/
+
+# Claude Code
+.claude/
+.atl/
